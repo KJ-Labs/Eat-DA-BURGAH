@@ -1,5 +1,5 @@
 // Make sure we wait to attach our handlers until the DOM is fully loaded.
-$(function() {
+$(document).ready(function() {
   $(".change-devoured").on("click", function(event) {
     var id = $(this).data("id");
     var newdevoured = $(this).data("newdevoured");
@@ -7,7 +7,7 @@ $(function() {
     var newdevouredState = {
       devoured: newdevoured
     };
-
+console.log(id);
     // Send the PUT request.
     $.ajax("/api/burgers/" + id, {
       type: "PUT",
@@ -27,7 +27,7 @@ $(function() {
 
     var newBurger = {
       name: $("#ca").val().trim(),
-      devoured: $("[name=devoured]:checked").val().trim()
+      devoured: 1
     };
 
     // Send the POST request.
