@@ -1,7 +1,10 @@
+
+
 li {
   padding: 5px;
   margin: 5px;
   background: #faebd7;
+  list-style-type: none;
 }
 
 .label {
@@ -16,4 +19,18 @@ li {
 
 .form-group {
   margin-bottom: 5px;
+}
+
+body {
+  text-align: center;
+  background-color: bisque;
+}
+form {
+  display: inline-block;
+}
+
+img {
+  height: 250px;
+  width: 50%;
+ 
 }
