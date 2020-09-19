@@ -27,11 +27,11 @@ The purpose of this project is to track burgers that you have eaten or want to e
 
 ## Installation
 
-        Step 1: Download the github repo. Step 2: Run NPM Install. Step 3: Run NPM install mySQL
+        N/A
 
 ## Usage
 
-        Step 1: Type in the name of the burger you want to add. Step 2: Click the Om Nom button to move the burger to eaten status. 
+        Step 1: Navigate to this link > https://safe-fortress-44922.herokuapp.com/ Step 2: Type in the name of the burger you want to add. Step 3: Click the Om Nom button to move the burger to eaten status. 
 
 ## License
 MIT 
