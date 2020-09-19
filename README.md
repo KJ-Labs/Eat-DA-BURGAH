@@ -51,6 +51,8 @@ The owner of this project is KJ-Labs, you're welcome to contribute.
 ## Repository
 
 - [Project Repo](https://github.com/KJ-Labs/Eat-DA-BURGAH)
+- [Deployed Application](https://safe-fortress-44922.herokuapp.com/)
+
 
 ## Screenshots
 ![Git](screenshot.PNG)  
