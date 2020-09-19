@@ -56,4 +56,6 @@ The owner of this project is KJ-Labs, you're welcome to contribute.
 ## Screenshots
 ![Git](screenshot.PNG)  
 
+Burger Image: Icons made by https://www.flaticon.com/authors/freepik
+
 
